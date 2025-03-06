@@ -30,16 +30,10 @@
 </template>
 <script>
        
-    
-    
 </script>
 <style scoped>
 .sosuo{
     display: flex;
   align-items: center;
-}    
-    
-
-
+}
 </style>
-
